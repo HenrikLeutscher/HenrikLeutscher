@@ -1,5 +1,9 @@
-## Hi there 👋
+## Hello, I'm Henrik 👋
 
+I am a tech enthusiast, everything from Front-End Development, editing videos + photos and game development is something I love.
+Currently a student at Noroff's Front-End Development program, learning and experimenting UI / UX Designs, writing clean semantic code in HTML, Vanilla CSS and JavaScript further proceeding into different frameworks.
+
+--WIP
 <!--
 **HenrikLeutscher/HenrikLeutscher** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
