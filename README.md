@@ -1,4 +1,5 @@
 ## Hello, I'm Henrik 👋
+From: Norway Stavanger 🇳🇴
 
 I am a tech enthusiast, everything from Front-End Development, editing videos + photos and game development is something I love.
 Currently a student at Noroff's Front-End Development program, learning and experimenting UI / UX Designs, writing clean semantic code in HTML, Vanilla CSS and JavaScript further proceeding into different frameworks.
