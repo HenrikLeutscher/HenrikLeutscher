@@ -3,7 +3,12 @@
 I am a tech enthusiast, everything from Front-End Development, editing videos + photos and game development is something I love.
 Currently a student at Noroff's Front-End Development program, learning and experimenting UI / UX Designs, writing clean semantic code in HTML, Vanilla CSS and JavaScript further proceeding into different frameworks.
 
---WIP
+🌱 Currently getting more familiar with JavaScript, with the goal to move into REACT and VUE during this summer.
+
+📫 You can reach me here:
+
+[My LinkedIn Profile](https://www.linkedin.com/in/henrik-leutscher/)
+
 <!--
 **HenrikLeutscher/HenrikLeutscher** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
