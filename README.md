@@ -1,8 +1,10 @@
 ## Hello, I'm Henrik 👋
-From: Norway Stavanger 🇳🇴
+📍From: Norway Stavanger 🇳🇴
+
+📚[Portfolio](https://henrikleutscher.github.io/POR1-FED1-HenrikLeutscher/)
 
 I am a tech enthusiast, everything from Front-End Development, editing videos + photos and game development is something I love.
-Currently a student at Noroff's Front-End Development program, learning and experimenting UI / UX Designs, writing clean semantic code in HTML, Vanilla CSS and JavaScript further proceeding into different frameworks.
+Currently a student at Noroff's Front-End Development program, learning and experimenting UI / UX Designs (Figma), writing clean semantic code in HTML, Vanilla CSS and JavaScript further proceeding into different frameworks.
 
 🌱 Currently getting more familiar with JavaScript, with the goal to move into REACT and VUE during this summer.
 
