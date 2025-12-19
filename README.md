@@ -3,14 +3,16 @@
 
 📚[Portfolio](https://henrikleutscher.github.io/POR1-FED1-HenrikLeutscher/)
 
-I am a tech enthusiast, everything from Front-End Development, editing videos + photos and game development is something I love.
-Currently a student at Noroff's Front-End Development program, learning and experimenting UI / UX Designs (Figma), writing clean semantic code in HTML, Vanilla CSS and JavaScript further proceeding into different frameworks.
+I am a tech enthusiast, everything from Front-End Development, taking photos, editing videos / photos and game development is something I love.
+Currently a student at Noroff's Front-End Development program, learning and experimenting UI / UX Designs (Figma), writing clean semantic code in HTML, Vanilla CSS, Bootstrap, Tailwind and JavaScript further proceeding into React.
 
-🌱 Currently getting more familiar with JavaScript, with the goal to move into REACT and VUE during this summer.
+🌱 Currently getting more familiar with JavaScript, moving into react soon.
 
 📫 You can reach me here:
 
 [My LinkedIn Profile](https://www.linkedin.com/in/henrik-leutscher/)
+
+⚡ Fun fact: I was born with 6 toes on my left foot and no I dont have it now. 
 
 <!--
 **HenrikLeutscher/HenrikLeutscher** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
