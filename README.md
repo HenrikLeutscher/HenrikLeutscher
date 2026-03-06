@@ -16,6 +16,8 @@ Tailwind
 Bootstrap
 Vanilla JavaScript
 TypeScript
+React JS
+Zustand
 ```
 * Other Skills:
 ```
