@@ -28,7 +28,7 @@ Lightroom
 Video Editing (Premiere Pro, Capcut)
 ```
 
-🌱 Currently getting more familiar with JavaScript, moving into react soon.
+🌱 Currently getting more familiar with React.
 
 📫 You can reach me here:
 
