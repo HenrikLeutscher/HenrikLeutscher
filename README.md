@@ -4,33 +4,77 @@
 📚[Portfolio](https://henrikleutscher.github.io/POR1-FED1-HenrikLeutscher/)
 
 I am a tech enthusiast, everything from Front-End Development, taking photos, editing videos / photos and game development is something I love.
-Currently a student at Noroff's Front-End Development program, learning and experimenting UI / UX Designs (Figma), writing clean semantic code in HTML, Vanilla CSS, Bootstrap, Tailwind and JavaScript further proceeding into React.
+I'm a front-end developer with a higher vocational education degree in Front-End Development from Noroff School of Technology and Media.
 
-🛠 My Skills:
+## Skills
 
-* Front-end Skills:
-```
-HTML  
-Vanilla CSS
-Tailwind
-Bootstrap
-Vanilla JavaScript
-TypeScript
-React JS
-Zustand
-```
-* Other Skills:
-```
-3D Modelling (Blender)
-Zmodeler 3 (Game Development for GTA V)
-Photography (Automotive Specifically)
-Lightroom
-Video Editing (Premiere Pro, Capcut)
-```
+### Front-End Development
+- HTML5
+- CSS3 (Vanilla CSS, Bootstrap, Tailwind CSS)
+- JavaScript (ES6+)
+- TypeScript
+- React
+- Next.js
+- React Router
+- TanStack Query
+- Zustand
+- React Context API
+- React Hook Form
+- Zod
+- Custom React Hooks
 
-🌱 Currently getting more familiar with React.
+#### UI/UX & Design
+- UI/UX Design Principles
+- Responsive Design (Mobile-First)
+- Accessibility (WCAG)
+- Search Engine Optimization (SEO)
+- Figma
+  - Wireframing
+  - Prototyping
+  - Design Systems
+  - Components
+  - Styleguides
+- Animations and Transitions
 
-📫 You can reach me here:
+#### Development Tools & Testing
+- Visual Studio Code
+- Git
+- GitHub
+- GitHub Projects
+- Agile Methodologies
+- ESLint
+- Prettier
+- Husky
+- Postman
+- Playwirhgt (end-to-end testing)
+- Vite
+- Vitest
+
+#### Backend & API integration
+- REST APIs
+- JWT Authentication
+- Swagger / OpenAPI
+- Enviornment Configurations (dotenv)
+- CORS
+- API Testing and Integration
+
+#### Databases
+- MySQL
+
+#### Live Deployments
+- GitHub Pages
+- Netlify
+
+
+#### Other Skills:
+- 3D Modelling (Blender)
+- Zmodeler 3 (Game Development for GTA V)
+- Photography (Automotive Specifically)
+- Lightroom
+- Video Editing (Premiere Pro, Capcut)
+
+
+📫 Connect with me on LinkedIn
 
 [My LinkedIn Profile](https://www.linkedin.com/in/henrik-leutscher/)
 
