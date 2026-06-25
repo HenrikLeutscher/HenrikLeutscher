@@ -73,6 +73,8 @@ I'm a front-end developer with a higher vocational education degree in Front-End
 - Lightroom
 - Video Editing (Premiere Pro, Capcut)
 
+- 🌱 I’m currently learning Backend Development and exploring Cyber Security through Scrimba.
+
 
 📫 Connect with me on LinkedIn
 
