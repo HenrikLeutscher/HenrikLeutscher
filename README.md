@@ -74,8 +74,20 @@ I'm a front-end developer with a higher vocational education degree in Front-End
 - Video Editing (Premiere Pro, Capcut)
 
 
-🌱 I’m currently learning Backend Development and exploring Cyber Security through Scrimba.
+🌱 I’m currently expanding my frontend knowledge and strenghtening my JavaScript fundamentals through Scrimba.
 
+### Completed
+- ✅ Learn JavaScript
+- ✅ Intro to Vite
+- ✅ Learn Bootstrap
+
+### In Progress:
+- Advanced JavaScript
+
+### Up Next:
+- Node.js / Backend Development
+- SQL & Databases
+- Python
 
 📫 Connect with me on LinkedIn
 
