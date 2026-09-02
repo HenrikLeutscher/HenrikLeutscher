@@ -84,10 +84,17 @@ I'm a front-end developer with a higher vocational education degree in Front-End
 ### In Progress:
 - Advanced JavaScript
 
+- The Frontend Developer Path
+- The Backend Developer Path
+
 ### Up Next:
+- Learn React
+- Advanced React
 - Node.js / Backend Development
 - SQL & Databases
-- Python
+- Learn Python
+
+- + more
 
 📫 Connect with me on LinkedIn
 
